@@ -1,3 +1,5 @@
 Name: Amrit Karmacharya
 Link: 
 Extras: 
+1) Replaced jquery carousel with bootstrap carousel
+2) Replaced jquery navbar with bootstrap navbar
