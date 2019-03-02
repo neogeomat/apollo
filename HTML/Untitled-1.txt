@@ -1,5 +1,5 @@
 Name: Amrit Karmacharya
-Link: 
+Link: https://neogeomat.github.io/apollo/HTML/
 Extras: 
-1) Replaced jquery carousel with bootstrap carousel
-2) Replaced jquery navbar with bootstrap navbar
+1) bootstrap carousel
+2) bootstrap navbar
